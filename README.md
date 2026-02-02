@@ -105,4 +105,4 @@ python tascy.py --delete-all     # Delete all tasks (requires confirmation in in
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
 
-*Made this in May 2025*
+*Made this in September 2025*
